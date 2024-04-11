@@ -570,7 +570,7 @@ pre code {
 }
 
 @media (min-width: 768px) {
-  .container {
+  .container2 {
     max-width: 720px;
   }
 }
