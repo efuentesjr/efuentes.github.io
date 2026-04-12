@@ -11561,6 +11561,8 @@ pre .code {
   .header {
     height: 500px;
     min-height: 500px;
+    background-position: 75% center;
+    background-attachment: scroll;
   }
   .header .social-icons {
     margin: auto;
